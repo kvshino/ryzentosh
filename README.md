@@ -10,6 +10,10 @@ This repo contains my config for a completely functioning Ryzentosh.
 **macOS version**: 14.2 (23C64) \
 **OpenCore version**: 0.9.7 
 
+## Installation
+  - Please be sure to generate your own SSDT-EC.aml according to the <a href="https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-methods/ssdttime.html">Dortania</a> guide \
+  (or simply use the <a href="https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-DESKTOP.aml">prebuilt</a> one, changing its name to SSDT-EC.aml).
+  - Generate your SMBIOS like shown <a href="https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#platforminfo">here</a>.
 
 ## Verified Specification
 
