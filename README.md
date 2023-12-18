@@ -2,7 +2,7 @@
 
 
 This repo contains my config for a completely functioning Ryzentosh. 
-
+![specs](https://github.com/kvshino/ryzentosh/blob/main/screenshots/specs.png)
 <br/>
 
 **macOS version**: 14.2  \
@@ -25,15 +25,19 @@ This repo contains my config for a completely functioning Ryzentosh.
 
 - ### GeekBench 6
   - [CPU](https://browser.geekbench.com/v6/cpu/4041508)
+    ![CPU](https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_cpu.png)
   - [GPU OpenCL](https://browser.geekbench.com/v6/compute/1461431)
+    ![GPU OpenCL](https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_opencl.png)
   - [GPU Metal](https://browser.geekbench.com/v6/compute/1461447)
+    ![GPU Metal](https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_metal.png)
 
 - ### BlackMagic Disk Speed Test
-
+    ![BlackMagic Disk Speed Test](https://github.com/kvshino/ryzentosh/blob/main/screenshots/DiskSpeedTest.png)
 
 ## Screenshots
-
-
+  ![desktop1](https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_1.png)
+  ![desktop2](https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_2.png)
+  ![desktop3](https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_3.png)
 
 ## Credits
 
