@@ -1,11 +1,13 @@
 # OpenCore config.plist for Ryzen 9 5900X and Radeon RX 6800
 
 
+
+<img src="https://github.com/kvshino/ryzentosh/blob/main/screenshots/specs.png" width=40% height=40%>
 This repo contains my config for a completely functioning Ryzentosh. 
-![specs](https://github.com/kvshino/ryzentosh/blob/main/screenshots/specs.png)
+<br/>
 <br/>
 
-**macOS version**: 14.2  \
+**macOS version**: 14.2 (23C64) \
 **OpenCore version**: 0.9.7 
 
 
@@ -25,20 +27,23 @@ This repo contains my config for a completely functioning Ryzentosh.
 
 - ### GeekBench 6
   - [CPU](https://browser.geekbench.com/v6/cpu/4041508)
-    ![CPU](https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_cpu.png)
+    <br/>
+    <img src="https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_cpu.png" width=50% height=50%>
   - [GPU OpenCL](https://browser.geekbench.com/v6/compute/1461431)
-    ![GPU OpenCL](https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_opencl.png)
+    <br/>
+    <img src="https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_opencl.png" width=50% height=50%>
   - [GPU Metal](https://browser.geekbench.com/v6/compute/1461447)
-    ![GPU Metal](https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_metal.png)
+    <br/>
+    <img src="https://github.com/kvshino/ryzentosh/blob/main/screenshots/geekbench_metal.png" width=50% height=50%>
 
 - ### BlackMagic Disk Speed Test
-    ![BlackMagic Disk Speed Test](https://github.com/kvshino/ryzentosh/blob/main/screenshots/DiskSpeedTest.png)
+  - <img src="https://github.com/kvshino/ryzentosh/blob/main/screenshots/DiskSpeedTest.png" width=50% height=50%>
 
 ## Screenshots
-  ![desktop1](https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_1.png)
-  ![desktop2](https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_2.png)
-  ![desktop3](https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_3.png)
-
+  <img src="https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_1.png" width=75% height=75%>
+  <img src="https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_2.png" width=75% height=75%>
+  <img src="https://github.com/kvshino/ryzentosh/blob/main/screenshots/desktop_3.png" width=75% height=75%>
+  
 ## Credits
 
 - [Apple](https://apple.com) for macOS
